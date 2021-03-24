@@ -7,3 +7,6 @@ paridihi
 akka
 sanyukta
 sarasvi
+pappa
+daddy
+amma
